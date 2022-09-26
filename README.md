@@ -1,2 +1,2 @@
-# Primeiro Repositorio no GitHub
-### Repositório criado para o desafio Github / DIO
+# Primeiro Repositorio no Git/GitHub
+### Repositório criado para o desafio Git/Github da DIO
